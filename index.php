@@ -1,5 +1,5 @@
 <?php
 
-print "my name is prakhar\n";
+print "my name is prakhar1\n";
 
 ?>
